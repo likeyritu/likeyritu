@@ -1,34 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
   <title id="title">Ritu Raj learning radar</title>
   <desc id="desc">A fictional terminal-style learning dashboard and radar with learn, practice, and build markers.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060d13"/><stop offset="1" stop-color="#0a1820"/></linearGradient>
     <radialGradient id="sweep"><stop offset="0" stop-color="#00d9e8" stop-opacity=".22"/><stop offset="1" stop-color="#00d9e8" stop-opacity="0"/></radialGradient>
-    <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="9"/></filter>
   </defs>
-  <rect width="1200" height="500" rx="24" fill="url(#bg)" stroke="#00c9d8" stroke-width="2"/>
-  <path d="M0 60h1200" stroke="#15333b" stroke-width="2"/>
-  <circle cx="38" cy="30" r="10" fill="#ff5c64"/><circle cx="72" cy="30" r="10" fill="#ffc04b"/><circle cx="106" cy="30" r="10" fill="#38df7a"/>
-  <text x="145" y="38" fill="#7793a5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18">ritu@likeyrity: ~ / learning-radar</text>
-  <text x="54" y="115" fill="#00d9e8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="19">ritu@likeyrity:~$ learning --status</text>
-  <text x="54" y="165" fill="#9babb9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">[+] PROFILE: B.Tech student</text>
-  <text x="54" y="204" fill="#9babb9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">[+] STARTED: Coding in Class 8</text>
-  <text x="54" y="243" fill="#9babb9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">[+] MODE: Learn / Practice / Build</text>
-  <text x="54" y="282" fill="#9babb9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">[+] PROJECT: Personal portfolio</text>
-  <text x="54" y="321" fill="#71f2a5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">[+] STATUS: Curious and building</text>
-  <text x="54" y="391" fill="#547180" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">A visual for my learning journey — not a network scan.</text>
-  <g transform="translate(900 272)">
-    <circle r="202" fill="url(#sweep)" filter="url(#soft)"/>
-    <circle r="176" fill="none" stroke="#147b88" stroke-opacity=".7" stroke-width="2"/>
-    <circle r="124" fill="none" stroke="#147b88" stroke-opacity=".55" stroke-width="2" stroke-dasharray="7 10"/>
-    <circle r="70" fill="none" stroke="#147b88" stroke-opacity=".7" stroke-width="2"/>
-    <path d="M-196 0H196M0-196V196M-139-139L139 139M-139 139L139-139" stroke="#123e49" stroke-width="2"/>
-    <path d="M0 0L-130-125A180 180 0 0 1 73-165Z" fill="#00d9e8" fill-opacity=".1"/>
-    <path d="M0 0L-130-125M0 0L73-165" stroke="#00d9e8" stroke-opacity=".9" stroke-width="2"/>
-    <circle cx="-88" cy="-74" r="7" fill="#ff5964"/><circle cx="78" cy="55" r="6" fill="#71f2a5"/><circle cx="25" cy="-128" r="6" fill="#ffc04b"/>
+  <rect width="1000" height="500" rx="24" fill="url(#bg)" stroke="#00c9d8" stroke-width="2"/>
+  <path d="M0 66h1000" stroke="#15333b" stroke-width="2"/>
+  <circle cx="38" cy="33" r="11" fill="#ff5c64"/><circle cx="74" cy="33" r="11" fill="#ffc04b"/><circle cx="110" cy="33" r="11" fill="#38df7a"/>
+  <text x="150" y="42" fill="#91a9b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23">ritu@likeyrity: ~ / learning-radar</text>
+  <text x="52" y="126" fill="#00d9e8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="25">ritu@likeyrity:~$ learning --status</text>
+  <text x="52" y="188" fill="#c0cbd1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23">[+] PROFILE: B.Tech student</text>
+  <text x="52" y="244" fill="#c0cbd1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23">[+] STARTED: Coding in Class 8</text>
+  <text x="52" y="300" fill="#c0cbd1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23">[+] MODE: Learn / Practice / Build</text>
+  <text x="52" y="356" fill="#c0cbd1" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23">[+] PROJECT: Personal portfolio</text>
+  <text x="52" y="412" fill="#71f2a5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23">[+] STATUS: Curious and building</text>
+  <text x="52" y="466" fill="#77919c" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">A visual for my learning journey — not a network scan.</text>
+  <g transform="translate(765 280)">
+    <circle r="190" fill="url(#sweep)" filter="url(#soft)"/>
+    <circle r="166" fill="none" stroke="#147b88" stroke-opacity=".8" stroke-width="2"/>
+    <circle r="118" fill="none" stroke="#147b88" stroke-opacity=".65" stroke-width="2" stroke-dasharray="7 10"/>
+    <circle r="66" fill="none" stroke="#147b88" stroke-opacity=".8" stroke-width="2"/>
+    <path d="M-182 0H182M0-182V182M-129-129L129 129M-129 129L129-129" stroke="#123e49" stroke-width="2"/>
+    <path d="M0 0L-120-118A170 170 0 0 1 68-155Z" fill="#00d9e8" fill-opacity=".1"/>
+    <path d="M0 0L-120-118M0 0L68-155" stroke="#00d9e8" stroke-opacity=".9" stroke-width="2"/>
+    <circle cx="-82" cy="-68" r="7" fill="#ff5964"/><circle cx="74" cy="53" r="6" fill="#71f2a5"/><circle cx="24" cy="-122" r="6" fill="#ffc04b"/>
     <circle r="8" fill="#d6fbff"/>
-    <text x="-156" y="-103" fill="#ff7d85" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">LEARN</text>
-    <text x="87" y="78" fill="#71f2a5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">BUILD</text>
-    <text x="34" y="-140" fill="#ffd16f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">PRACTICE</text>
+    <text x="-146" y="-94" fill="#ff7d85" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">LEARN</text>
+    <text x="82" y="76" fill="#71f2a5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">BUILD</text>
+    <text x="31" y="-135" fill="#ffd16f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">PRACTICE</text>
   </g>
 </svg>
