@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**likeyrity/likeyrity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ritu Raj — B.Tech student, curious learner, coding since Class 8](./profile-banner.svg)
 
-Here are some ideas to get you started:
+### B.Tech student · Curious learner · Building one project at a time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cffbd?style=for-the-badge&logo=github&logoColor=08130e)](https://likeyrity.github.io/ritu-raj-portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajsing_az/)
+
+</div>
+
+## 👋 About me
+
+I started coding in Class 8, and that early curiosity grew into a lasting interest in technology. I’m now pursuing a B.Tech degree and learning by building, experimenting, and improving step by step.
+
+## 🚀 My learning journey
+
+- 🎓 B.Tech college student
+- 💻 My coding journey began in Class 8
+- 🌱 Learning through practice and personal projects
+- 🚀 Current featured project: [My portfolio](https://likeyrity.github.io/ritu-raj-portfolio/)
+
+I’m building a foundation in engineering and software development, then putting each new idea into practice through projects. I’m interested in how technology works and how small experiments can become useful things people can use.
+
+## 🧰 Tools behind my portfolio
+
+React · TypeScript · Tailwind CSS · Vite
+
+## 📊 GitHub activity
+
+![GitHub stats for likeyrity](https://github-readme-stats.vercel.app/api?username=likeyrity&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 📫 Connect with me
+
+- 🌐 [Portfolio](https://likeyrity.github.io/ritu-raj-portfolio/)
+- 📸 [Instagram](https://www.instagram.com/rajsing_az/)
