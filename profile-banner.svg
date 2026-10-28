@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ritu Raj — B.Tech student</title>
+  <desc id="desc">A dark green banner with mint light trails, introducing Ritu Raj as a B.Tech student who started coding in Class 8.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07110d"/><stop offset="1" stop-color="#10251b"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#72f0aa" stop-opacity="0"/><stop offset="0.5" stop-color="#9cffbd" stop-opacity=".95"/><stop offset="1" stop-color="#72f0aa" stop-opacity="0"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="1020" cy="-10" r="230" fill="#49d991" opacity=".12" filter="url(#blur)"/>
+  <circle cx="1150" cy="270" r="155" fill="#68f4ad" opacity=".1" filter="url(#blur)"/>
+  <path d="M685 0 C780 70 820 40 900 95 S1060 165 1200 112" fill="none" stroke="url(#glow)" stroke-width="2" opacity=".65"/>
+  <path d="M700 38 C780 108 858 90 935 138 S1085 210 1200 175" fill="none" stroke="#78ebb0" stroke-width="1" opacity=".35"/>
+  <path d="M750 320 C820 250 895 250 970 211 S1100 145 1200 165" fill="none" stroke="#78ebb0" stroke-width="1" opacity=".35"/>
+  <g fill="#b9ffd0" opacity=".7"><circle cx="880" cy="58" r="3"/><circle cx="1018" cy="122" r="2"/><circle cx="1104" cy="75" r="2"/><circle cx="948" cy="258" r="2"/><circle cx="1140" cy="234" r="3"/><circle cx="805" cy="205" r="2"/></g>
+  <text x="82" y="142" fill="#f1fff5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="68" font-weight="750" letter-spacing="-2">Ritu Raj</text>
+  <rect x="84" y="171" width="64" height="4" rx="2" fill="#9cffbd"/>
+  <text x="82" y="224" fill="#b8d5c3" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="23" font-weight="500" letter-spacing=".2">B.Tech student  ·  Curious learner  ·  Coding since Class 8</text>
+  <text x="84" y="270" fill="#81edaa" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="650" letter-spacing="3">LEARN  /  BUILD  /  GROW</text>
+</svg>
