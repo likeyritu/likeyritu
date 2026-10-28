@@ -26,6 +26,12 @@ I’m building a foundation in engineering and software development, then puttin
 
 React · TypeScript · Tailwind CSS · Vite
 
+## 🛰️ Learning radar
+
+A snapshot of my learning journey: learn, practice, and build.
+
+![Ritu Raj learning radar](./learning-radar.svg)
+
 ## 📊 GitHub activity
 
 ![GitHub stats for likeyrity](https://github-readme-stats.vercel.app/api?username=likeyrity&show_icons=true&theme=tokyonight&hide_border=true)
